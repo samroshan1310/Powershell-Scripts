@@ -2,7 +2,7 @@
 **Project Title**: Automated Service Checker
 
 **Description:**
-The Automated Service Checker is aimed to automate the monitoring and management of services on a system. This tool runs at regular intervals to check the status of specified services. If any service is found to be in an incorrect state (e.g., stopped when it should be running), the tool will attempt to fix the issue automatically and log the details. The powershell script, the .csv file, and the log output file have been attached for reference.
+The Automated Service Checker is aimed to automate the monitoring and management of services on a system. This tool runs at regular intervals to check the status of specified services. If any service is found to be in an incorrect state (e.g., stopped when it should be running), the tool will attempt to fix the issue automatically and log the details. The .ps1 file, .csv file, and the log output file have been attached for reference.
 
 **Working:**
 
